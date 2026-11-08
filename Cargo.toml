@@ -1,11 +1,10 @@
 [package]
-name = "sigmaos-archlinux-luks"
+name = "sigmaos_archlinux_luks"
 version = "0.1.0"
 edition = "2021"
-authors = ["SigmaOS Contributors"]
-description = "SigmaOS archlinux-luks component (Arch Linux inspired)"
-license = "MIT OR Apache-2.0"
+license = "MIT"
+description = "SigmaOS archlinux-luks component inspired by Linux Mint / Omarchy / Arch Linux."
 
 [lib]
-name = "sigmaos_archlinux-luks"
+name = "sigmaos_archlinux_luks"
 path = "src/lib.rs"
